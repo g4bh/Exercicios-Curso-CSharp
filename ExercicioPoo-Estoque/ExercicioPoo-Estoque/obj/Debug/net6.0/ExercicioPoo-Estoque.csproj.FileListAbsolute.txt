@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\bin\Debug\net6.0\ExercicioPoo-Estoque.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\bin\Debug\net6.0\ExercicioPoo-Estoque.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\bin\Debug\net6.0\ExercicioPoo-Estoque.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\bin\Debug\net6.0\ExercicioPoo-Estoque.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\bin\Debug\net6.0\ExercicioPoo-Estoque.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\refint\ExercicioPoo-Estoque.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ExercicioPoo-Estoque.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioPoo-Estoque\ExercicioPoo-Estoque\obj\Debug\net6.0\ref\ExercicioPoo-Estoque.dll
