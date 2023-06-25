@@ -1,2 +1,10 @@
-# Exercicios-Curso-CSharp
-Códigos dos exercícios propostos durante o curso de C# do prof Nélio ALves
+
+# Exercícios C# #️⃣
+
+Códigos dos exercícios de fixação e projetos propostos durante o curso de C# do professor Nélio ALves.
+
+
+## Stack utilizada
+
+**Back-end:** C#
+
