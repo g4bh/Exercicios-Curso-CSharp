@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\bin\Debug\net6.0\POOAtividadeFixacao1.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\bin\Debug\net6.0\POOAtividadeFixacao1.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\bin\Debug\net6.0\POOAtividadeFixacao1.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\bin\Debug\net6.0\POOAtividadeFixacao1.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\bin\Debug\net6.0\POOAtividadeFixacao1.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\refint\POOAtividadeFixacao1.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\POOAtividadeFixacao1.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\POOAtividadeFixacao1\POOAtividadeFixacao1\obj\Debug\net6.0\ref\POOAtividadeFixacao1.dll
