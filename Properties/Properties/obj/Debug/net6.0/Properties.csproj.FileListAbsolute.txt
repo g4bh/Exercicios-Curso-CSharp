@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\bin\Debug\net6.0\Properties.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\bin\Debug\net6.0\Properties.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll
