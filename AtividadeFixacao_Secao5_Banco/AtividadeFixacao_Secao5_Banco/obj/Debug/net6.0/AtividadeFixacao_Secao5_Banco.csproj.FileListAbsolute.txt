@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\bin\Debug\net6.0\AtividadeFixacao_Secao5_Banco.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\bin\Debug\net6.0\AtividadeFixacao_Secao5_Banco.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\bin\Debug\net6.0\AtividadeFixacao_Secao5_Banco.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\bin\Debug\net6.0\AtividadeFixacao_Secao5_Banco.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\bin\Debug\net6.0\AtividadeFixacao_Secao5_Banco.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\refint\AtividadeFixacao_Secao5_Banco.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\AtividadeFixacao_Secao5_Banco.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\AtividadeFixacao_Secao5_Banco\AtividadeFixacao_Secao5_Banco\obj\Debug\net6.0\ref\AtividadeFixacao_Secao5_Banco.dll
