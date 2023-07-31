@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Globalization;
@@ -19,20 +19,19 @@ namespace AtividadeFixacao_Secao5_Banco
             Titular = titular;
         }
 
-        public Banco(int conta, string titular, double saldo) : this (conta, titular)
+        public Banco(int conta, string titular, double depositoInicial) : this (conta, titular)
         {
-            Saldo = saldo;
+            DepositoConta(depositoInicial);
         }
-
-        
+              
         
         public void DepositoConta(double valorDeposito) {
-            Saldo = Saldo + valorDeposito;
+            Saldo += valorDeposito;
         }
 
         public void SaqueConta(double valorSaque) {
             int taxa = 5;
-            Saldo = (Saldo - valorSaque) - taxa;
+            Saldo -= valorSaque + taxa;
         }
 
         public override string ToString() { 
