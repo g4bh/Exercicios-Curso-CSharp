@@ -1,0 +1,15 @@
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\bin\Debug\net6.0\ExercicioFixacao_Vetores.exe
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\bin\Debug\net6.0\ExercicioFixacao_Vetores.deps.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\bin\Debug\net6.0\ExercicioFixacao_Vetores.runtimeconfig.json
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\bin\Debug\net6.0\ExercicioFixacao_Vetores.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\bin\Debug\net6.0\ExercicioFixacao_Vetores.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.csproj.AssemblyReference.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.AssemblyInfoInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.AssemblyInfo.cs
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\refint\ExercicioFixacao_Vetores.dll
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.pdb
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ExercicioFixacao_Vetores.genruntimeconfig.cache
+C:\Users\nefad\OneDrive\Documentos\CSharp-Curso\ExercicioFixacao_Vetores\ExercicioFixacao_Vetores\obj\Debug\net6.0\ref\ExercicioFixacao_Vetores.dll
